@@ -1,0 +1,2 @@
+extension 1: We created an extension to keep track of our scores, it works in the sense that the aliens in the row closest to our ship are worth 5 points, the aliens above them are worth ten then above those aliens abve them are worth fifteen, and so on. W edid this by adding an attribute to the Alien clas and as they were initiainalized by row in wave their points attribute but be incremented by five.
+ 
